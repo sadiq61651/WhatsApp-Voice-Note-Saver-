@@ -1,8 +1,8 @@
-Privacy Policy for WhatsApp Voice Message Saver
+Privacy Policy for Voice Message Saver
 
 1. Information Collected
 
-WhatsApp Voice Message Saver, developed by M.Sadiq, may collect non-personal information for the purpose of delivering targeted advertisements. This may include device identifiers, IP addresses, usage data, and ad interaction information. The app processes the WhatsApp voice notes selected by the user for download. No personal data is collected or transmitted to external servers.
+Voice Message Saver, developed by M.Sadiq, may collect non-personal information for the purpose of delivering targeted advertisements. This may include device identifiers, IP addresses, usage data, and ad interaction information. The app processes the WhatsApp voice notes selected by the user for download. No personal data is collected or transmitted to external servers.
 
 2. Purpose of Data Collection
 
